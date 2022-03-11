@@ -1,0 +1,2 @@
+@Library(etech-co-shared-library)
+repo https://github.com/ETECH-Co/sendwave-App
