@@ -1,2 +1,2 @@
-@Library(etech-co-shared-library)
+@Library('etech-co-shared-library')_
 sendwaveApp 'https://github.com/ETECH-Co/sendwave-App'
